@@ -1,0 +1,5 @@
+Clojure is great!
+I love Clojure.
+Clojure FTW!
+Don't you like Clojure?
+Clojure is awesome.
