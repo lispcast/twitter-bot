@@ -2,7 +2,7 @@
 
 Code to accompany the [Clojure Twitter Bot] project on [PurelyFunctional.tv].
 
-[Clojure Twitter Bot]: https://purelyfunctional.tv/clojure-twitter-bot
+[Clojure Twitter Bot]: https://purelyfunctional.tv/lesson/clojure-twitter-bot/
 [PurelyFunctional.tv]: https://purelyfunctional.tv/
 
 ## License
